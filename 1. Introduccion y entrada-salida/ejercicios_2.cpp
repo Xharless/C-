@@ -15,8 +15,8 @@ int main(){
     cout<<"Ingrese su sexo (masculino/femenino): "; cin>>sexo;
     cout<<"Ingrese su altura (en metros): "; cin>>altura;
     
-    cout<<"\n Edad: "<<edad;
-    cout<<"\n Sexo: "<<sexo;
-    cout<<"\n Altura (en metros): " << altura;
+    cout<<"Edad: "<<edad<<endl;
+    cout<<"Sexo: "<<sexo<<endl;
+    cout<<"Altura (en metros): " <<altura<<endl;
     return 0;
 }
